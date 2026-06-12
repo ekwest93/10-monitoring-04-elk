@@ -197,7 +197,8 @@ output.logstash:
 В манифесте директории help также приведенно dummy-приложение, которое генерирует рандомные события в stdout-контейнера.
 Эти логи должны порождать индекс logstash-* в elasticsearch. Если этого индекса нет — воспользуйтесь советами и источниками из раздела «Дополнительные ссылки» этого задания.
  <img width="1848" height="827" alt="image" src="https://github.com/user-attachments/assets/1e981c06-b035-4148-ae4b-37b7eba87c64" />
-<img width="1847" height="856" alt="image" src="https://github.com/user-attachments/assets/114d0c64-8c2f-4d83-8dbe-0b34467cd516" />
+ <img width="1329" height="375" alt="image" src="https://github.com/user-attachments/assets/99b56d2a-a925-42b1-b491-53d51e455fc8" />
+<img width="1431" height="805" alt="image" src="https://github.com/user-attachments/assets/41ce3004-2923-4954-9d2f-453b721c8116" />
 
 ---
 
